@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "TIS and 247Express VIP PRO",
   "version": "2.1.0",
-  "update_url": "http://192.168.18.245/software/Extension/TIS_247/update.xml",
+  "update_url": "https://github.com/HanShinVN/extension_tool/blob/main/TIS_247/update.xml",
   "description": "FROM: truongle.IT.TIS",
   "icons": { "16": "icon.png", "48": "icon.png", "128": "icon.png" },
   "permissions": ["storage"],
